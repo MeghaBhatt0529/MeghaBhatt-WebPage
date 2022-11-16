@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "category": "Fruits & Vegetables"
+    },
+    {
+        "id":2,
+        "category":"Foodgrains,Oil & Masala"
+    }
+    {
+        "id":3,
+        "category": "Bakery, Cakes & Dairy"
+    },
+    {
+        "id":4,
+        "category":"Beverages"
+    }
+    {
+        "id":5,
+        "category": "Snacks & Branded Foods"
+    },
+    {
+        "id":6,
+        "category":"Beauty & Hygiene"
+    }
+    {
+        "id":7,
+        "category": "Cleaning & Household"
+    },
+    {
+        "id":8,
+        "category":"Kitchen, Garden & Pets"
+    }
+    {
+        "id":9,
+        "category": "Eggs, Meat & Fish"
+    },
+    {
+        "id":10,
+        "category":"Baby Care"
+    }
+]

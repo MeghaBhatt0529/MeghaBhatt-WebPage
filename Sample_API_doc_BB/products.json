@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "product_name": "Tender-coconut",
+        "category": "Fruits & Vegetables",
+        "category_id": 1,
+        "Price": 262,
+        "Size": "5pcs",
+        "Image": "https://i.ibb.co/8Pd7XjD/1221868-1-fresho-tender-coconut.jpg" ,
+        "Sub-category": "Fruits"
+    },
+    {
+        "id": 2,
+        "product_name": "Onion",
+        "category": "Fruits & Vegetables",
+        "category_id": 1,
+        "Price": 250,
+        "Size": "5kg",
+        "Image": "https://i.ibb.co/G3Np21G/10000150-19-fresho-onion.jpg",
+        "Sub-category": "Vegetable"
+    },
+    {
+        "id": 3,
+        "product_name": "Potato",
+        "category": "Fruits & Vegetables",
+        "category_id": 1,
+        "Price": 72,
+        "Size": "2kg",
+        "Image": "https://i.ibb.co/WHtvjsf/40162469-6-fresho-potato-new-crop.jpg",
+        "Sub-category": "Vegetable"
+    },
+    {
+        "id":4,
+        "product_name": "Orange",
+        "category": "Fruits & Vegetables",
+        "category_id": 1,
+        "Price":76,
+        "Size": "1kg",
+        "Image": "https://i.ibb.co/ZXLmhsL/10000266-27-fresho-orange-nagpur-regular.jpg",
+        "Sub-category": "Fruits"
+    },
+    {
+        "id":5,
+        "product_name": "Coriander",
+        "category": "Fruits & Vegetables",
+        "category_id": 1,
+        "Price":3 ,
+        "Size": "1pcs",
+        "Image": "https://i.ibb.co/vkXhvkg/40039720-2-fresco-coriander.jpg",
+        "Sub-category": "Vegetable"
+    },
+    {
+        "id":6,
+        "product_name": "Banana",
+        "category": "Fruits & Vegetables",
+        "category_id": 1,
+        "Price": 55,
+        "Size": "1kg",
+        "Image": "https://i.ibb.co/Z8nkN5G/10000025-27-fresho-banana-robusta.jpg",
+        "Sub-category": "Fruits"
+    },
+
+    {
+        "id":7,
+        "product_name": "Aashirvad Atta",
+        "category": "Foodgrains,Oil & Masala",
+        "category_id": 2,
+        "Price":440 ,
+        "Size": "10kg",
+        "Image": "https://i.ibb.co/k6MDtwq/40127505-7-aashirvaad-shudh-chakki-atta.jpg",
+        "Sub-category": "Food"
+    },
+    {
+        "id":8,
+        "product_name": "Kachi Ghani Mustured Oil",
+        "category": "Foodgrains,Oil & Masala",
+        "category_id": 2,
+        "Price":895,
+        "Size": "5L",
+        "Image": "https://i.ibb.co/T8NTWjd/1212562-1-fortune-kachi-ghani-mustard-oil.jpg",
+        "Sub-category": "Food"
+    },{
+        "id":9,
+        "product_name": "Arhar/Toor Dal",
+        "category": "Foodgrains,Oil & Masala",
+        "category_id": 2,
+        "Price": 160,
+        "Size": "1kg",
+        "Image": "https://i.ibb.co/3Cqp537/40000291-8-tata-sampann-unpolished-toor-dalarhar-dal.jpg",
+        "Sub-category": "Food"
+    },
+    {
+        "id":10,
+        "product_name": "Cumin/Jeera",
+        "category": "Foodgrains,Oil & Masala",
+        "category_id": 2,
+        "Price": 369,
+        "Size": "1kg",
+        "Image": "https://i.ibb.co/ft0VVBY/40030808-10-bb-royal-cuminjeera-whole.jpg",
+        "Sub-category": "Food"
+    },
+    {
+        "id":11,
+        "product_name": "Sugar",
+        "category": "Foodgrains,Oil & Masala",
+        "category_id": 2,
+        "Price": 220 ,
+        "Size": "5kg",
+        "Image": "https://i.ibb.co/DDGb8qP/40127505-7-aashirvaad-shudh-chakki-atta.jpg",
+        "Sub-category": "Food"
+    },
+    {
+        "id":12,
+        "product_name": "Cow Ghee",
+        "category": "Foodgrains,Oil & Masala",
+        "category_id": 2,
+        "Price":690 ,
+        "Size": "500ml",
+        "Image": "https://i.ibb.co/2FMZjMv/1214157-1-patanjali-cow-ghee.jpg",
+        "Sub-category": "Food"
+    },
+    {
+        "id":7,
+        "product_name": "Cow Ghee",
+        "category": "",
+        "category_id": 2,
+        "Price": ,
+        "Size": "",
+        "Image": "",
+        "Sub-category": ""
+    },
+    ]
