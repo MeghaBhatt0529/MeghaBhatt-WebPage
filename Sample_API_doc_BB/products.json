@@ -79,7 +79,8 @@
         "Size": "5L",
         "Image": "https://i.ibb.co/T8NTWjd/1212562-1-fortune-kachi-ghani-mustard-oil.jpg",
         "Sub-category": "Food"
-    },{
+    },
+    {
         "id":9,
         "product_name": "Arhar/Toor Dal",
         "category": "Foodgrains,Oil & Masala",
@@ -120,13 +121,83 @@
         "Sub-category": "Food"
     },
     {
-        "id":7,
-        "product_name": "Cow Ghee",
-        "category": "",
-        "category_id": 2,
-        "Price": ,
-        "Size": "",
-        "Image": "",
+        "id":13,
+        "product_name": "Frooti",
+        "category": "Beverages",
+        "category_id": 3,
+        "Price":15 ,
+        "Size": "1pcs",
+        "Image": "https://i.ibb.co/xGDT7rZ/265783-4-frooti-drink-fresh-n-juicy-mango.jpg",
+        "Sub-category": " Soft drink"
+    },
+    {
+        "id":14,
+        "product_name": "Taj Mahal",
+        "category": "Beverages",
+        "category_id": 3,
+        "Price":564 ,
+        "Size": "1pcs",
+        "Image": "https://i.ibb.co/P4dJThF/137936-11-taj-mahal-tea.jpg",
+        "Sub-category": "Tea"
+    },
+    {
+        "id":15,
+        "product_name": "Rocher-chocolate",
+        "category": "Snacks & Branded Foods",
+        "category_id": 4,
+        "Price": 1058,
+        "Size": "Multipack",
+        "Image": "https://i.ibb.co/qYnNRr5/1201350-3-ferrero-rocher-chocolate-16-pcs.jpg",
+        "Sub-category": "Snacks"
+    },
+    {
+        "id":16,
+        "product_name": "Potato Chips",
+        "category": "Snacks & Branded Foods",
+        "category_id": 4,
+        "Price":132 ,
+        "Size": "Multipack",
+        "Image": "https://i.ibb.co/2nw4dYK/1212774-3-lays-potato-chips-indias-magic-masala.jpg",
+        "Sub-category": "Snacks"
+    },
+    {
+        "id":17,
+        "product_name": "Nivea",
+        "category": "Beauty & Hygiene",
+        "category_id": 5,
+        "Price": 823,
+        "Size": "Multipack",
+        "Image": "https://i.ibb.co/KWPk2DD/1212184-2-nivea-soft-light-moisturising-cream.jpg",
         "Sub-category": ""
+    },
+    {
+        "id":18,
+        "product_name": "Colgate",
+        "category": "Beauty & Hygiene",
+        "category_id": 5,
+        "Price":393 ,
+        "Size": "Multipack",
+        "Image": "https://i.ibb.co/xXQYyv4/1212657-3-colgate-strong-teeth-anticavity-toothpaste-with-amino-shakti-saver-pack.jpg",
+        "Sub-category": ""
+    },
+    {
+        "id":19,
+        "product_name": "Johnsons baby buds",
+        "category": "Baby Care",
+        "category_id": 6,
+        "Price": 105,
+        "Size": "1 pcs",
+        "Image": "https://i.ibb.co/FmWQHY6/40054348-8-johnsons-baby-baby-skincare-wipes-super-saver-pack.jpg",
+        "Sub-category": "Baby"
+    },
+    {
+        "id":20,
+        "product_name": "Skin care wipes",
+        "category": "Baby Care",
+        "category_id": 6,
+        "Price": 414 ,
+        "Size": "Multipack",
+        "Image": "https://i.ibb.co/d030Cm1/264003-13-johnsons-baby-buds.jpg",
+        "Sub-category": "Baby"
     },
     ]
